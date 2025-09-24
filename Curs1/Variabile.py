@@ -55,8 +55,8 @@
 # in, not in
 # print(4 in [1,2,3])
 
-var3 = 2 + 5j
-var2 = 7 - 3j
-var1 = var2 + var3
-print(var3, type(var3))
-print(var1, type(var1))
+# var3 = 2 + 5j
+# var2 = 7 - 3j
+# var1 = var2 + var3
+# print(var3, type(var3))
+# print(var1, type(var1))
